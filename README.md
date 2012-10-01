@@ -1,6 +1,10 @@
-Parsor - A simple scraper for HTML and text files, which generates a dataset based on the sentences each file contains.
+Parsor
+======
 
-by Tony Boyles - AABoyles@gmail.com - http://nortalktoowise.com/
+A simple scraper for HTML and text files, which generates a dataset
+based on the sentences each file contains.
+
+by [Tony Boyles](mailto:AABoyles@gmail.com) - (http://AABoyles.com/)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -12,4 +16,4 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
-http://www.gnu.org/licenses/
+(http://www.gnu.org/licenses/)
